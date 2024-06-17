@@ -1,0 +1,9 @@
+.alert {
+    border: 1px solid #070505;
+}
+
+.alert-success {
+    background-color: #4fc16a;
+    color: #070505;
+    text-decoration: line-through;
+}
